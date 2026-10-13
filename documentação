@@ -4,15 +4,30 @@ Colegio Estadual Alcântara de Carvalho
   2  Jogos Digitais
   //EQUIPE
   
-  Ayrlla
-  Ana Laura
-  Isabela Vitoria
+  Ayrlla Kevylle Almeida Delmonde
+  Ana Laura Vieira De Oliveira 
+  Isabela Vitoria Oliveira Zucolotto
   
   //EQUIPE(PAPEL)
   Ayrlla: organizando a documentação
- 
+  Ana Laura: encontrou os bugs
+  Isabela: ajudou a organizar o documento
     
     //USABILIDADE
-          O objetivo do jogo é 
-    //ERROS/BUGS
-    
+    O objetivo do jogo é coletar comida pra aumentar a pontuduação.
+  No jogo também possui alguns desafios durante o percusso, para jogar utilizamos
+  as teclas de ceta para direita e esquerda e em cima e baixo
+ tambem usamos as letra A e D para andar, o W para pular eo S para descer.
+  Na nossa opinião, o jogo é fácil de jogar e simples.Mas a (criação) é mais complicada, pois o cenario
+  contém muitos detalhes visuais.
+    //ERROS/ BUGS
+  Durante o percusso observamos varios bugs!
+Um deles foi a colisão do personagen ao encostar nos itens do cenario.
+O outro bugs foi o personagens principal entrar no bloco que ja tinha outro.
+Ao mundar de cenario aparece somente a medade do personagen, isso por conta da posição.
+    //INCREMENTOS
+colocar skis novas;
+colocar um inimigo pra deixar o jogo mais complicado;
+espalhar as pontuações pelo cenario;
+ajustar os erros;
+adicionar mais um cenario.
